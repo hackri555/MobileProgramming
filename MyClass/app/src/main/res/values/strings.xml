@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pirates of Carebbian</string>
+    <string name="no">Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="address">Alamat</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="informasi">Aplikasi ini di buat oleh</string>
+    <string name="owner">Created  : Heyri Hermawan</string>
+    <string name="version">Version  : 1.2</string>
+    <string name="email">Email    : heyrihermawan555.@gmail.com</string>
+</resources>
